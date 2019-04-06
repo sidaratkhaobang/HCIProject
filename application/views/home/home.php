@@ -19,7 +19,7 @@ Released   : 20130406
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <title>Vestibule  by TEMPLATED</title>
 <link href="http://fonts.googleapis.com/css?family=Oxygen:400,700,300" rel="stylesheet" type="text/css" />
-<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="http://localhost/HCIProject/public/css/home.css" rel="stylesheet" type="text/css" media="screen" />
 </head>
 <body>
 <div id="wrapper">
@@ -36,10 +36,12 @@ Released   : 20130406
 			</ul>
 		</div>
 	</div>
+	
 	<div id="logo" class="container">
-		<h1><a href="#">Vestibule</a></h1>
+		<h1>FakPay</a></h1>
 		<p>In posuere eleifend odio quisque semper augue.</p>
 	</div>
+
 	<div id="page" class="container">
 		<div>
 			<div class="entry">
@@ -51,7 +53,7 @@ Released   : 20130406
 		<div class="tbox1">
 			<div class="box-style box-style01">
 				<div class="content">
-					<div class="image"><img src="images/img01.jpg" width="324" height="200" alt="" /></div>
+					<div class="image"><img src="http://localhost/HCIProject/public/images/img01.jpg" width="324" height="200" alt="" /></div>
 					<h2>Fusce ultrices fringilla</h2>
 					<p>Aliquam erat volutpat. Pellentesque tristique ante ut risus. Quisque dictum. Integer nisl risus, sagittis convallis, rutrum id, elementum congue, nibh. </p>
 					<a href="#" class="button">Learn More</a>
