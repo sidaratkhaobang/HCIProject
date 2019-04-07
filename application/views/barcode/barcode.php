@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="http://localhost/HCIProject/public/css/barcode.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost/HCIProject/public/css/barcode/barcode.css">
    
     <title>ชำระเงิน</title>
 </head>
@@ -14,14 +14,14 @@
 <div class="card" >
 		<div class="card-body">
             <p>บาร์โค้ด</p><br>
-                <img src="public/img/barcode/barcode.png">
+                <img src="http://localhost/HCIProject/public/img/barcode/barcode.png">
         </div>
 </div>
 <br>
 <div class="card" >
 		<div class="card-body">
             <p>คิวอาร์โค้ด</p><br>
-                <img src="public/img/barcode/QR.png">
+                <img src="http://localhost/HCIProject/public/img/barcode/QR.png">
         </div>
 </div>
 
