@@ -1,0 +1,44 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:40%;
+   
+  }
+
+
+h2 {
+    margin: 0px;
+    text-align: center;
+  }
+
+p {
+    font-family: Poppins-Regular;
+    font-size: 14px;
+    line-height: 1.7;
+    color: #666666;
+    margin: 0px;
+    text-align: center;
+}
+  .card-body {
+    -ms-flex: 1 1 auto;
+        flex: 1 1 auto;
+    padding: 1.25rem;
+  }
+
+  .card {
+    margin: auto;
+    width: auto;
+    height: auto;
+    
+    /* padding: 50px 50px 50px 50px; */
+
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 60%;
+    /* box-align: center; */
+    border: 2px solid #33A9DC;
+  }
+  /* .bg{  
+    background: linear-gradient(to bottom,#FFFFFF 20%, #49AAD4 30%);
+  } */
