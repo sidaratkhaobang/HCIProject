@@ -3,13 +3,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 ?><!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Bluesky</title>
+<title>Fak Pay</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="description" content="Bluesky template project">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type="text/css" href="http://localhost/HCIProject/public/styles/home/bootstrap4/bootstrap.min.css">
-<link href="plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="http://localhost/HCIProject/public/plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="http://localhost/HCIProject/public/plugins/OwlCarousel2-2.2.1/owl.carousel.css">
 <link rel="stylesheet" type="text/css" href="http://localhost/HCIProject/public/plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
 <link rel="stylesheet" type="text/css" href="http://localhost/HCIProject/public/plugins/OwlCarousel2-2.2.1/animate.css">
@@ -20,6 +20,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 <div class="super_container">
 
+	<!-- header -->
 
 	<header class="header">
 		<div class="container">
@@ -35,7 +36,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 								<li><a href="about.html">เกี่ยวกับเรา</a></li>
 								<li><a href="properties.html">Properties</a></li>
 								<li><a href="news.html">News</a></li>
-								<li><a href="contact.html">Contact</a></li>
+								<li><a href="contact.html">Contact</a></li>		
+								<!-- <div class="callout clearfix">
+									<li><a class="float-right" href="#register">register</a></li>
+									<li><a class="float-right" href="#loin">login</a></li>
+								</div> -->
 							</ul>
 						</nav>
 						<div class="hamburger ml-auto"><i class="fa fa-bars" aria-hidden="true"></i></div>
@@ -58,15 +63,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				</a>
 			</div>
 			<ul>
-				<li class="menu_item"><a href="index.html">sohk</a></li>
-				<li class="menu_item"><a href="about.html">About us</a></li>
-				<li class="menu_item"><a href="#">Speakers</a></li>
-				<li class="menu_item"><a href="#">Tickets</a></li>
+				<!-- <li class="menu_item"><a href="index.html">โปร์ไฟล์</a></li> -->
+				<li class="menu_item"><a href="about.html">เกี่ยวกับเรา</a></li>
+				<li class="menu_item"><a href="properties.html">Properties</a></li>
 				<li class="menu_item"><a href="news.html">News</a></li>
+				<li class="menu_item"><a href="contact.html">Contact</a></li>
 				<li class="menu_item"><a href="contact.html">Contact</a></li>
 			</ul>
 		</div>
-		<div class="menu_phone"><span>call us: </span>652 345 3222 11</div>
 	</div>
 	
 	<!-- Home -->
@@ -85,25 +89,23 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 							<div class="row">
 								<div class="col">
 									<div class="slide_content">
-										<div class="home_subtitle">ความสะดวก</div>
-										<div class="home_title">FakPay</div>
+										<div class="home_subtitle">สะดวก</div>
+										<div class="home_title">Fak Pay</div>
 										<!-- <div class="home_details">
 											<ul class="home_details_list d-flex flex-row align-items-center justify-content-start">
 												<li>
-													<div class="home_details_image"><img src="http://localhost/HCIProject/public/images/icon_1.png" alt=""></div>
 													<span> 650 Ftsq</span>
 												</li>
 												<li>
-													<div class="home_details_image"><img src="http://localhost/HCIProject/public/images/icon_2.png" alt=""></div>
 													<span> 3 Bedrooms</span>
 												</li>
 												<li>
-													<div class="home_details_image"><img src="http://localhost/HCIProject/public/images/icon_3.png" alt=""></div>
+													<div class="home_details_image"><img src="http://localhost/HCIProject/public/img/city_1.jpg" alt=""></div>
 													<span> 2 Bathrooms</span>
 												</li>
 											</ul>
-										</div>
-										<div class="home_price">$ 1. 245 999</div> -->
+										</div> -->
+										<div class="home_price">ง่ายๆ</div>
 									</div>
 								</div>
 							</div>
@@ -179,12 +181,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 	<!-- Cities -->
 
-	<div class="cities">
-		<div class="container">
+	<div class="cities" align="center">
+		<div class="container" >
 			<div class="row">
 				<div class="col">
-					<div class="section_title">Find properties in these cities</div>
-					<div class="section_subtitle">Search your dream home</div>
+					<div class="section_title">ช่องทางการใช้เงินของคุณ</div>
+					<div class="section_subtitle">ไลฟ์สไตล์ของคุณเลือกเองได้</div>
 				</div>
 			</div>
 		</div>
@@ -193,66 +195,66 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 			<!-- City -->
 			<div class="city">
-				<img src="http://localhost/HCIProject/public/images/city_1.jpg" alt="https://unsplash.com/@dnevozhai">
+				<img src="http://localhost/HCIProject/public/img/home/img001.png" alt="https://unsplash.com/@dnevozhai">
 				<div class="city_overlay">
 					<a href="#" class="d-flex flex-column align-items-center justify-content-center">
-						<div class="city_title">Ibiza Town</div>
-						<div class="city_subtitle">Rentals from $450/month</div>
+						<div class="city_title">เติมเงินมือถือ</div>
+						<div class="city_subtitle">เติมได้ทุกเครือข่ายไม่จำกัด</div>
 					</a>	
 				</div>
 			</div>
 
 			<!-- City -->
 			<div class="city">
-				<img src="http://localhost/HCIProject/public/images/city_2.jpg" alt="https://unsplash.com/@lachlanjdempsey">
+				<img src="http://localhost/HCIProject/public/img/home/img002.png" alt="https://unsplash.com/@lachlanjdempsey">
 				<div class="city_overlay">
 					<a href="#" class="d-flex flex-column align-items-center justify-content-center">
-						<div class="city_title">Ibiza Town</div>
-						<div class="city_subtitle">Rentals from $450/month</div>
+						<div class="city_title">เติมเกม</div>
+						<div class="city_subtitle">ไม่จำกัดชีวิตตามไลฟ์สไตล์</div>
 					</a>	
 				</div>
 			</div>
 
 			<!-- City -->
 			<div class="city">
-				<img src="http://localhost/HCIProject/public/images/city_3.jpg" alt="https://unsplash.com/@hellolightbulb">
+				<img src="http://localhost/HCIProject/public/img/home/img003.png" alt="https://unsplash.com/@hellolightbulb">
 				<div class="city_overlay">
 					<a href="#" class="d-flex flex-column align-items-center justify-content-center">
-						<div class="city_title">Ibiza Town</div>
-						<div class="city_subtitle">Rentals from $450/month</div>
+						<div class="city_title">ตั๋วภาพยนตร์</div>
+						<div class="city_subtitle">พบกับความบรรเทิงที่รออยู่</div>
 					</a>	
 				</div>
 			</div>
 
 			<!-- City -->
 			<div class="city">
-				<img src="http://localhost/HCIProject/public/images/city_4.jpg" alt="https://unsplash.com/@justinbissonbeck">
+				<img src="http://localhost/HCIProject/public/img/home/img004.png" alt="https://unsplash.com/@justinbissonbeck">
 				<div class="city_overlay">
 					<a href="#" class="d-flex flex-column align-items-center justify-content-center">
-						<div class="city_title">Ibiza Town</div>
-						<div class="city_subtitle">Rentals from $450/month</div>
+						<div class="city_title">K F C</div>
+						<div class="city_subtitle">หิวก็สั่งเลย สะดวกทุกที่</div>
 					</a>	
 				</div>
 			</div>
 
 			<!-- City -->
 			<div class="city">
-				<img src="http://localhost/HCIProject/public/images/city_5.jpg" alt="https://unsplash.com/@claudiotrigueros">
+				<img src="http://localhost/HCIProject/public/img/home/img005.png" alt="https://unsplash.com/@claudiotrigueros">
 				<div class="city_overlay">
 					<a href="#" class="d-flex flex-column align-items-center justify-content-center">
-						<div class="city_title">Ibiza Town</div>
-						<div class="city_subtitle">Rentals from $450/month</div>
+						<div class="city_title">บัตรเงินสด</div>
+						<div class="city_subtitle">นึกถึงวันว่าน</div>
 					</a>	
 				</div>
 			</div>
 
 			<!-- City -->
 			<div class="city">
-				<img src="http://localhost/HCIProject/public/images/city_6.jpg" alt="https://unsplash.com/@andersjilden">
+				<img src="http://localhost/HCIProject/public/img/home/img006.png" alt="https://unsplash.com/@andersjilden">
 				<div class="city_overlay">
-					<a href="#" class="d-flex flex-column align-items-center justify-content-center">
-						<div class="city_title">Ibiza Town</div>
-						<div class="city_subtitle">Rentals from $450/month</div>
+					<a href="http://localhost/HCIProject/index.php/barcode" class="d-flex flex-column align-items-center justify-content-center">
+						<div class="city_title">คิวอาร์โค้ด</div>
+						<div class="city_subtitle">สะดวกจ่ายพร้อมเปย์ให้เลย</div>
 					</a>	
 				</div>
 			</div>
