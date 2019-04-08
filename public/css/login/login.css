@@ -52,7 +52,7 @@
         outline: 0px !important;
     }
     .login_container {
-        padding: 0 2rem;
+        padding: 0 2.7rem;
     }
     .input-group-text {
         background: #c0392b !important;
@@ -72,4 +72,8 @@
         width: 100%;
         background: #4e50e0 !important;
         color: white !important;
+    }
+
+    .back_container {
+        padding: 0 2.7rem;
     }

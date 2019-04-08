@@ -49,7 +49,7 @@
 				<div class="d-flex justify-content-center mt-3 login_container">
 					<button  onclick="checklogin()" class="btn login_btn"> Login </button>
 				</div>
-				<div class="d-flex justify-content-center mt-2 login_container">
+				<div class="d-flex justify-content-center mt-2 back_container">
 					<button onclick="window.location.href = 'http://localhost/HCIProject/home';" type="button" class="btn back_btn">กลับหน้าหลัก</button>
 				</div>
 			</div>
