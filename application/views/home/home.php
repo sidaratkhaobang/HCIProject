@@ -32,7 +32,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         </div>
 						<nav class="main_nav">
 							<ul>
-								<li class="active"><a href="http://localhost/HCIProject/index.php/home">หน้าแรก</a></li>
+								<li class="active"><a href="http://localhost/HCIProject/home">หน้าแรก</a></li>
 								<li><a href="about.html">เกี่ยวกับเรา</a></li>
 								<li><a href="properties.html">Properties</a></li>
 								<li><a href="news.html">News</a></li>
@@ -41,8 +41,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 								<li><a class="float-right" href="#register"></i>register</a></li>
 								<li><a class="float-right" href="#loin"></i>login</a></li>
 								</div> -->
-            					<button class="btn btn-default"><a href="http://localhost/HCIProject/index.php/register">ลงทะเบียน</button>
-            					<button class="btn btn-default"><a href="http://localhost/HCIProject/index.php/login">ล็อกอิน</button>
+            					<button class="btn btn-default"><a href="http://localhost/HCIProject/register">ลงทะเบียน</button>
+            					<button class="btn btn-default"><a href="http://localhost/HCIProject/login">ล็อกอิน</button>
         					
 							</ul>
         						
@@ -256,7 +256,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<div class="city">
 				<img src="http://localhost/HCIProject/public/img/home/img006.png" alt="https://unsplash.com/@andersjilden">
 				<div class="city_overlay">
-					<a href="http://localhost/HCIProject/index.php/barcode" class="d-flex flex-column align-items-center justify-content-center">
+					<a href="http://localhost/HCIProject/barcode" class="d-flex flex-column align-items-center justify-content-center">
 						<div class="city_title">คิวอาร์โค้ด</div>
 						<div class="city_subtitle">สะดวกจ่ายพร้อมเปย์ให้เลย</div>
 					</a>	

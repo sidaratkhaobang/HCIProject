@@ -62,7 +62,7 @@ function checklogin() {
     var username = document.getElementById("username").value;
     var password = document.getElementById("password").value;
     if(username == "group" && password == "1234"){
-        window.location.href = 'http://localhost/HCIProject/index.php/home';
+        window.location.href = 'http://localhost/HCIProject/home';
 
     }
     else{

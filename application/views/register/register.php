@@ -30,7 +30,7 @@
                         </div>
 						<nav class="main_nav">
 							<ul>
-								<li class="active"><a href="http://localhost/HCIProject/index.php/home">หน้าแรก</a></li>
+								<li class="active"><a href="http://localhost/HCIProject/home">หน้าแรก</a></li>
 								<li><a href="about.html">เกี่ยวกับเรา</a></li>
 								<li><a href="properties.html">Properties</a></li>
 								<li><a href="news.html">News</a></li>
