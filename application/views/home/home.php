@@ -28,7 +28,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<div class="col">
 					<div class="header_content d-flex flex-row align-items-center justify-content-start">
 						<div class="logo">
-							<!-- <a href="#"><img src="http://localhost/HCIProject/public/images/logo.png" alt=""></a> -->
+							<a href="#"><img src="http://localhost/HCIProject/public/images/logo.png" alt=""></a>
                         </div>
 						<nav class="main_nav">
 							<ul>
