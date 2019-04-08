@@ -33,10 +33,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						<nav class="main_nav">
 							<ul>
 								<li class="active"><a href="http://localhost/HCIProject/home">หน้าแรก</a></li>
-								<li><a href="about.html">เกี่ยวกับเรา</a></li>
-								<li><a href="properties.html">Properties</a></li>
-								<li><a href="news.html">News</a></li>
-								<li><a href="contact.html">Contact</a></li>		
+								<li><a href="about.html">บริการ</a></li>
+								<li><a href="properties.html">โปรโมชั่น</a></li>
+								<li><a href="news.html">ข่าวสาร</a></li>
+								<li><a href="contact.html">เกี่ยวกับเรา</a></li>		
 								<!-- <div class="callout clearfix">
 								<li><a class="float-right" href="#register"></i>register</a></li>
 								<li><a class="float-right" href="#loin"></i>login</a></li>
@@ -68,11 +68,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</div>
 			<ul>
 				<!-- <li class="menu_item"><a href="index.html">โปร์ไฟล์</a></li> -->
-				<li class="menu_item"><a href="about.html">เกี่ยวกับเรา</a></li>
-				<li class="menu_item"><a href="properties.html">Properties</a></li>
-				<li class="menu_item"><a href="news.html">News</a></li>
-				<li class="menu_item"><a href="contact.html">Contact</a></li>
-				<li class="menu_item"><a href="contact.html">Contact</a></li>
+				<li class="menu_item"><a href="about.html">บริการ</a></li>
+				<li class="menu_item"><a href="properties.html">โปรโมชั่น</a></li>
+				<li class="menu_item"><a href="news.html">ข่าวสาร</a></li>
+				<li class="menu_item"><a href="contact.html">เกี่ยวกับเรา</a></li>
+			
 			</ul>
 		</div>
 	</div>
@@ -87,7 +87,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				
 				<!-- Slide -->
 				<div class="owl-item">
-					<div class="home_slider_background" style="background-image:url(http://localhost/HCIProject/public/images/logohead.png)"></div>
+					<div class="home_slider_background" style="background-image:url(http://localhost/HCIProject/public/images/logohead1.png)"></div>
 					<div class="slide_container">
 						<div class="container">
 							<div class="row">
@@ -199,7 +199,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 			<!-- City -->
 			<div class="city">
-				<img src="http://localhost/HCIProject/public/img/home/img001.png" alt="https://unsplash.com/@dnevozhai">
+				<img src="http://localhost/HCIProject/public/img/home/mobile.png"  >
 				<div class="city_overlay">
 					<a href="#" class="d-flex flex-column align-items-center justify-content-center">
 						<div class="city_title">เติมเงินมือถือ</div>
@@ -210,7 +210,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 			<!-- City -->
 			<div class="city">
-				<img src="http://localhost/HCIProject/public/img/home/img002.png" alt="https://unsplash.com/@lachlanjdempsey">
+				<img src="http://localhost/HCIProject/public/img/home/game.png" >
 				<div class="city_overlay">
 					<a href="#" class="d-flex flex-column align-items-center justify-content-center">
 						<div class="city_title">เติมเกม</div>
@@ -221,7 +221,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 			<!-- City -->
 			<div class="city">
-				<img src="http://localhost/HCIProject/public/img/home/img003.png" alt="https://unsplash.com/@hellolightbulb">
+				<img src="http://localhost/HCIProject/public/img/home/ticket.png" >
 				<div class="city_overlay">
 					<a href="#" class="d-flex flex-column align-items-center justify-content-center">
 						<div class="city_title">ตั๋วภาพยนตร์</div>
@@ -232,7 +232,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 			<!-- City -->
 			<div class="city">
-				<img src="http://localhost/HCIProject/public/img/home/img004.png" alt="https://unsplash.com/@justinbissonbeck">
+				<img src="http://localhost/HCIProject/public/img/home/kfc.png" >
 				<div class="city_overlay">
 					<a href="#" class="d-flex flex-column align-items-center justify-content-center">
 						<div class="city_title">K F C</div>
@@ -243,7 +243,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 			<!-- City -->
 			<div class="city">
-				<img src="http://localhost/HCIProject/public/img/home/img005.png" alt="https://unsplash.com/@claudiotrigueros">
+				<img src="http://localhost/HCIProject/public/img/home/card.png" >
 				<div class="city_overlay">
 					<a href="#" class="d-flex flex-column align-items-center justify-content-center">
 						<div class="city_title">บัตรเงินสด</div>
@@ -254,7 +254,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 			<!-- City -->
 			<div class="city">
-				<img src="http://localhost/HCIProject/public/img/home/img006.png" alt="https://unsplash.com/@andersjilden">
+				<img src="http://localhost/HCIProject/public/img/home/barcode.png" >
 				<div class="city_overlay">
 					<a href="http://localhost/HCIProject/barcode" class="d-flex flex-column align-items-center justify-content-center">
 						<div class="city_title">คิวอาร์โค้ด</div>
@@ -265,22 +265,22 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 			<!-- City -->
 			<div class="city">
-				<img src="http://localhost/HCIProject/public/images/city_7.jpg" alt="https://unsplash.com/@sawyerbengtson">
+				<img src="http://localhost/HCIProject/public/img/home/shop.png" >
 				<div class="city_overlay">
 					<a href="#" class="d-flex flex-column align-items-center justify-content-center">
-						<div class="city_title">Ibiza Town</div>
-						<div class="city_subtitle">Rentals from $450/month</div>
+						<div class="city_title">ช้อปออนไลน์</div>
+						<div class="city_subtitle">ช้อปง่ายๆตามไลฟ์สไตล์</div>
 					</a>	
 				</div>
 			</div>
 
 			<!-- City -->
 			<div class="city">
-				<img src="http://localhost/HCIProject/public/images/city_8.jpg" alt="https://unsplash.com/@mathewwaters">
+				<img src="http://localhost/HCIProject/public/img/home/man.png" >
 				<div class="city_overlay">
 					<a href="#" class="d-flex flex-column align-items-center justify-content-center">
-						<div class="city_title">Ibiza Town</div>
-						<div class="city_subtitle">Rentals from $450/month</div>
+						<div class="city_title">โปร์ไฟล์</div>
+						<div class="city_subtitle">ตั้งค่าโปรไฟล์</div>
 					</a>	
 				</div>
 			</div>
@@ -303,69 +303,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             <div class="footer_logo"><a href="#"><img src="images/logo_large.png" alt=""></a></div>
                         </div>
                         <div class="col-lg-9 d-flex flex-column align-items-start justify-content-end">
-                            <div class="footer_title">Latest Properties</div>
+                            <div class="footer_title">มาสนุกกับพวกเรา FakPay</div>
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-lg-3 footer_col">
-                            <div class="footer_about">
-                                <div class="footer_about_text">Donec in tempus leo. Aenean ultricies mauris sed quam lacinia lobortis. Cras ut vestibulum enim, in gravida nulla. Curab itur ornare nisl at sagittis cursus.</div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 footer_col">
-                            <div class="footer_latest d-flex flex-row align-items-start justify-content-start">
-                                <div><div class="footer_latest_image"><img src="images/footer_latest_1.jpg" alt=""></div></div>
-                                <div class="footer_latest_content">
-                                    <div class="footer_latest_location">Miami</div>
-                                    <div class="footer_latest_name"><a href="#">Sea view property</a></div>
-                                    <div class="footer_latest_price">$ 1. 234 981</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 footer_col">
-                            <div class="footer_latest d-flex flex-row align-items-start justify-content-start">
-                                <div><div class="footer_latest_image"><img src="images/footer_latest_2.jpg" alt=""></div></div>
-                                <div class="footer_latest_content">
-                                    <div class="footer_latest_location">Miami</div>
-                                    <div class="footer_latest_name"><a href="#">Town House</a></div>
-                                    <div class="footer_latest_price">$ 1. 234 981</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 footer_col">
-                            <div class="footer_latest d-flex flex-row align-items-start justify-content-start">
-                                <div><div class="footer_latest_image"><img src="images/footer_latest_3.jpg" alt=""></div></div>
-                                <div class="footer_latest_content">
-                                    <div class="footer_latest_location">Miami</div>
-                                    <div class="footer_latest_name"><a href="#">Modern House</a></div>
-                                    <div class="footer_latest_price">$ 1. 234 981</div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="footer_bar">
-                <div class="container">
-                    <div class="row">
-                        <div class="col">
-                            <div class="footer_bar_content d-flex flex-row align-items-center justify-content-start">
-                                <div class="cr"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                                Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-                                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                                </div>
-                                <div class="footer_nav">
-                                    <ul>
-                                        <li><a href="index.html">Home</a></li>
-                                        <li><a href="#">About us</a></li>
-									<li><a href="properties.html">Properties</a></li>
-									<li><a href="news.html">News</a></li>
-									<li><a href="contact.html">Contact</a></li>
-								</ul>
-							</div>
-							<div class="footer_phone ml-auto"><span>call us: </span>652 345 3222 11</div>
-						</div>
-					</div>
+                   
 				</div>
 			</div>
 		</div>

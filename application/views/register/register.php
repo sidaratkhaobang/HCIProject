@@ -19,55 +19,8 @@
 </head>
 <body class="bg">
 	<!-- header -->
-	
-<header class="header">
-		<div class="container">
-			<div class="row">
-				<div class="col">
-					<div class="header_content d-flex flex-row align-items-center justify-content-start">
-						<div class="logo">
-							<!-- <a href="#"><img src="http://localhost/HCIProject/public/images/logo.png" alt=""></a> -->
-                        </div>
-						<nav class="main_nav">
-							<ul>
-								<li class="active"><a href="http://localhost/HCIProject/home">หน้าแรก</a></li>
-								<li><a href="about.html">เกี่ยวกับเรา</a></li>
-								<li><a href="properties.html">Properties</a></li>
-								<li><a href="news.html">News</a></li>
-								<li><a href="contact.html">Contact</a></li>
-							</ul>
-						</nav>
-						<div class="hamburger ml-auto"><i class="fa fa-bars" aria-hidden="true"></i></div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</header>
-
-	<!-- Menu -->
-
-	<div class="menu trans_500">
-		<div class="menu_content d-flex flex-column align-items-center justify-content-center text-center">
-			<div class="menu_close_container"><div class="menu_close"></div></div>
-			<div class="logo menu_logo">
-				<a href="#">
-					<div class="logo_container d-flex flex-row align-items-start justify-content-start">
-						<div class="logo_image"><div><img src="http://localhost/HCIProject/public/images/logo.png" alt=""></div></div>
-					</div>
-				</a>
-			</div>
-			<ul>
-				<!-- <li class="menu_item"><a href="index.html">โปร์ไฟล์</a></li> -->
-				<li class="menu_item"><a href="about.html">เกี่ยวกับเรา</a></li>
-				<li class="menu_item"><a href="properties.html">Properties</a></li>
-				<li class="menu_item"><a href="news.html">News</a></li>
-				<li class="menu_item"><a href="contact.html">Contact</a></li>
-				<li class="menu_item"><a href="contact.html">Contact</a></li>
-			</ul>
-		</div>
-    </div>
-
-    <br><br><br><br><br>
+	<img src="http://localhost/HCIProject/public/images/logore.png" >
+<br>
 
 <div class="card" >
 		<div class="card-body">
@@ -92,10 +45,10 @@
 				</div>
 			
 				
-				<button type="submit" class="btn btn-primary" style="float:left">ลงทะเบียน</button>
+					<a href="http://localhost/HCIProject/login" class="btn btn-primary" role="button" style="float:left">ลงทะเบียน</a>
+					<a href="http://localhost/HCIProject/home"  class="btn btn-danger" role="button" style="float:right">ยกเลิก</a>
+				
 
-				<button type="submit" class="btn btn-danger" style="float:right">ยกเลิก</button>
-				</a>
             </form>
         </div>
 	

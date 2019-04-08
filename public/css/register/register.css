@@ -74,6 +74,14 @@
       color: #666666;
       margin: 0px;
   }
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:40%;
+   
+  }
   
     
   
@@ -456,7 +464,7 @@
     width: 40%;
     /* box-align: center; */
     border: 2px solid #000000;
-    background: #FFFFFF;
+    background: #F6B95C;
   }
   .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
@@ -472,3 +480,5 @@
     background: linear-gradient(to bottom ,#FFFFFF 30%, #85C1E9 70%);
    
   }
+
+  
