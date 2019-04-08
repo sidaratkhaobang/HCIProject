@@ -25,11 +25,11 @@
                         </div>
 						<nav class="main_nav">
 							<ul>
-								<li class="active"><a href="http://localhost/HCIProject/home">หน้าแรก</a></li>
-								<li><a href="about.html">เกี่ยวกับเรา</a></li>
-								<li><a href="properties.html">Properties</a></li>
-								<li><a href="news.html">News</a></li>
-								<li><a href="contact.html">Contact</a></li>
+							<li class="active"><a href="http://localhost/HCIProject/home">หน้าแรก</a></li>
+								<li><a href="about.html">บริการ</a></li>
+								<li><a href="properties.html">โปรโมชั่น</a></li>
+								<li><a href="news.html">ข่าวสาร</a></li>
+								<li><a href="contact.html">เกี่ยวกับเรา</a></li>	
 							</ul>
 						</nav>
 						<div class="hamburger ml-auto"><i class="fa fa-bars" aria-hidden="true"></i></div>
@@ -53,11 +53,11 @@
 			</div>
 			<ul>
 				<!-- <li class="menu_item"><a href="index.html">โปร์ไฟล์</a></li> -->
-				<li class="menu_item"><a href="about.html">เกี่ยวกับเรา</a></li>
-				<li class="menu_item"><a href="properties.html">Properties</a></li>
-				<li class="menu_item"><a href="news.html">News</a></li>
-				<li class="menu_item"><a href="contact.html">Contact</a></li>
-				<li class="menu_item"><a href="contact.html">Contact</a></li>
+				<li class="menu_item"><a href="about.html">บริการ</a></li>
+				<li class="menu_item"><a href="properties.html">โปรโมชั่น</a></li>
+				<li class="menu_item"><a href="news.html">ข่าวสาร</a></li>
+				<li class="menu_item"><a href="contact.html">เกี่ยวกับเรา</a></li>
+			
 			</ul>
 		</div>
     </div>
