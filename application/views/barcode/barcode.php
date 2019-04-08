@@ -78,6 +78,13 @@
                 <img src="http://localhost/HCIProject/public/img/barcode/QR.png">
         </div>
 </div>
+<br>
+<div class="card" >
+		<div class="card-body">
+            <p>ยอดเงินคงเหลือ</p><br>
+			<h2>2,000,000  บาท </h2>
+        </div>
+</div>
 <script src="http://localhost/HCIProject/public/js/home/jquery-3.2.1.min.js"></script>
 <script src="http://localhost/HCIProject/public/js/home/custom.js"></script>
 </body>

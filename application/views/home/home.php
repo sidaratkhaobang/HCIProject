@@ -87,7 +87,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				
 				<!-- Slide -->
 				<div class="owl-item">
-					<div class="home_slider_background" style="background-image:url(http://localhost/HCIProject/public/images/home_slider_1.jpg)"></div>
+					<div class="home_slider_background" style="background-image:url(http://localhost/HCIProject/public/images/logohead.png)"></div>
 					<div class="slide_container">
 						<div class="container">
 							<div class="row">
