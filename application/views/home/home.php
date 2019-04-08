@@ -38,10 +38,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 								<li><a href="news.html">News</a></li>
 								<li><a href="contact.html">Contact</a></li>		
 								<!-- <div class="callout clearfix">
-									<li><a class="float-right" href="#register">register</a></li>
-									<li><a class="float-right" href="#loin">login</a></li>
+								<li><a class="float-right" href="#register"></i>register</a></li>
+								<li><a class="float-right" href="#loin"></i>login</a></li>
 								</div> -->
+            					<button class="btn btn-default"><a href="http://localhost/HCIProject/index.php/register">ลงทะเบียน</button>
+            					<button class="btn btn-default"><a href="">ล็อกอิน</button>
+        					
 							</ul>
+        						
 						</nav>
 						<div class="hamburger ml-auto"><i class="fa fa-bars" aria-hidden="true"></i></div>
 					</div>
