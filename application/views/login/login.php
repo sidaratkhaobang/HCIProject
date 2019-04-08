@@ -20,9 +20,9 @@
 		<div class="d-flex justify-content-center h-100">
 			<div class="user_card">
 				<div class="d-flex justify-content-center">
-					<!-- <div class="brand_logo_container">
-						<img src="https://cdn.freebiesupply.com/logos/large/2x/pinterest-circle-logo-png-transparent.png" class="brand_logo" alt="Logo">
-					</div> -->
+					<div class="brand_logo_container">
+						<img src="http://localhost/HCIProject/public/img/login/logo.png" class="brand_logo" alt="Logo">
+					</div>
 				</div>
 				<div class="d-flex justify-content-center form_container">
 					<form>
@@ -47,10 +47,11 @@
 					</form>
 				</div>
 				<div class="d-flex justify-content-center mt-3 login_container">
-                <!-- <button type="submit" class="btn login_btn"><a href="">ล็อกอิน</button> -->
 					<button  onclick="checklogin()" class="btn login_btn"> Login </button>
 				</div>
-	
+				<div class="d-flex justify-content-center mt-2 login_container">
+					<button onclick="window.location.href = 'http://localhost/HCIProject/home';" type="button" class="btn back_btn">กลับหน้าหลัก</button>
+				</div>
 			</div>
 		</div>
 	</div>
