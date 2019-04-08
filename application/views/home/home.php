@@ -42,7 +42,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 								<li><a class="float-right" href="#loin"></i>login</a></li>
 								</div> -->
             					<button class="btn btn-default"><a href="http://localhost/HCIProject/index.php/register">ลงทะเบียน</button>
-            					<button class="btn btn-default"><a href="">ล็อกอิน</button>
+            					<button class="btn btn-default"><a href="http://localhost/HCIProject/index.php/login">ล็อกอิน</button>
         					
 							</ul>
         						

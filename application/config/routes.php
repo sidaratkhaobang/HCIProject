@@ -53,5 +53,6 @@ $route['default_controller'] = 'welcome';
 $route['home'] = 'home';
 $route['register'] = 'register';
 $route['barcode'] = 'barcode';
+$route['login'] = 'login';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
