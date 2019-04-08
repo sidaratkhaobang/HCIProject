@@ -17,7 +17,7 @@
 
     <title>Register</title>
 </head>
-<body>
+<body class="bg">
 	<!-- header -->
 	
 <header class="header">
@@ -92,7 +92,9 @@
 				</div>
 			
 				
-				<button type="submit" class="btn btn-primary">ลงทะเบียน</button>
+				<button type="submit" class="btn btn-primary" style="float:left">ลงทะเบียน</button>
+
+				<button type="submit" class="btn btn-danger" style="float:right">ยกเลิก</button>
 				</a>
             </form>
         </div>

@@ -37,8 +37,12 @@ p {
     transition: 0.3s;
     width: 60%;
     /* box-align: center; */
-    border: 2px solid #33A9DC;
+    border: 2px solid #000000;
+    background: #F2F3F4;
+    
+
   }
-  /* .bg{  
-    background: linear-gradient(to bottom,#FFFFFF 20%, #49AAD4 30%);
-  } */
+  .bg{  
+    background: linear-gradient(to bottom ,#FFFFFF 30%, #85C1E9 70%);
+   
+  }

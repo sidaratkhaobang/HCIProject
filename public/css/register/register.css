@@ -455,7 +455,8 @@
     transition: 0.3s;
     width: 40%;
     /* box-align: center; */
-    background: linear-gradient(to bottom, #489FDA 20%,#FFFFFF 80%);
+    border: 2px solid #000000;
+    background: #FFFFFF;
   }
   .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
@@ -465,4 +466,9 @@
     padding: 2px 16px;
     
   
+  }
+
+  .bg{  
+    background: linear-gradient(to bottom ,#FFFFFF 30%, #85C1E9 70%);
+   
   }
