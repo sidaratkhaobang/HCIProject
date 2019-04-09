@@ -24,7 +24,7 @@
 						<h1>ลงทะเบียน</h1>
 						<form id="insert">
 							<div class="form-group">
-								<label >ชื่อผู้ใช้</label> <i class="fas fa-envelope"></i>
+								<label >ชื่อผู้ใช้</label> <i class="fas fa-user"></i>
 								<input  type="text" class="form-control"   placeholder="ชื่อผู้ใช้" id="name" name="name">
 							</div>
 							<div class="form-group">
