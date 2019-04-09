@@ -15,7 +15,7 @@
 							<div class="input-group-append">
 								<span class="input-group-text"><i class="fas fa-user"></i></span>
 							</div>
-							<input type="text" id="email" name="email" class="form-control input_user" value="" placeholder="อีเมล">
+							<input type="text" id="username" name="username" class="form-control input_user" value="" placeholder="ชื่อผู้ใช้">
 						</div>
 						<div class="input-group mb-2">
 							<div class="input-group-append">
@@ -45,9 +45,10 @@
 
 <script>
 function checklogin() {
-    var email = document.getElementById("email").value;
+    var username = document.getElementById("username").value;
     var password = document.getElementById("password").value;
-    if(email == "group3@mail.com" && password == "1234"){
+    if(username == "group3" && password == "1234"){
+		alert("ล็อกอินสำเร็จ  "+username)
         window.location.href = 'http://localhost/HCIProject/homenotlogin';
 
     }
