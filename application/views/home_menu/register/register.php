@@ -1,10 +1,24 @@
 <body class= "bg">
-<section class="ftco-section contact-section ftco-no-pb" >
+
+<!-- header -->
+	
+<header class="header">
+	<div class="container">
+		<div class="row">
+			<div class="col">
+				<div class="header_content d-flex flex-row align-items-center justify-content-start">
+					<div class="logo2">
+						<a href="#"><img src="http://localhost/HCIProject/public/images/logo.png" alt=""></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+
+<section class="ftco-section contact-section ftco-no-pb cg">
 		<div class="container">
         	<!-- header -->
-			<div class="mig">
-				<img src="http://localhost/HCIProject/public/images/logore.png" >
-			</div>
 				<div class="card" >
 					<div class="card-body">
 						<h1>ลงทะเบียน</h1>

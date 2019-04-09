@@ -475,12 +475,18 @@
   
   .container {
     padding: 2px 16px;
-    
-  
   }
 
   .bg{  
     background: #F2F4F4;
   }
   
-  
+  .cg {
+    padding: 150px 2px;
+  }
+
+  .logo2
+  {
+    width: 350px;
+    left: 510px;
+  }
