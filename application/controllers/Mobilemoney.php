@@ -6,6 +6,7 @@ class Mobilemoney extends CI_Controller {
 
 	public function index()
 	{
+		$this->load->view('template/headmenuhome');
 		$this->load->view('home_menu/mobilemoney/mobilemoney');
 	}
 }

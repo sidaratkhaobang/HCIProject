@@ -6,12 +6,17 @@ class Home extends CI_Controller {
 
 	public function index()
 	{
+		$this->load->view('template/headhome');
 		$this->load->view('home/home');
+		$this->load->view('template/footerhome');
 	}
 
 	public function homenotlogin()
 	{
+		$this->load->view('template/headhomelogin');
 		$this->load->view('home/homenotlogin');
+		$this->load->view('template/footerhomelogin');
+		
 	}
 	
 }
