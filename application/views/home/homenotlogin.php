@@ -38,6 +38,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 										<li><a href="properties.html">โปรโมชั่น</a></li>
 										<li><a href="news.html">ข่าวสาร</a></li>
 										<li><a href="contact.html">เกี่ยวกับเรา</a></li>
+										<button class="btn btn-default"><a href="http://localhost/HCIProject/home">ล็อกเอาท์</button>
 									</ul>	
 								</nav>
     						</div>
@@ -66,6 +67,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<li class="menu_item"><a href="properties.html">โปรโมชั่น</a></li>
 				<li class="menu_item"><a href="news.html">ข่าวสาร</a></li>
 				<li class="menu_item"><a href="contact.html">เกี่ยวกับเรา</a></li>
+				
 			
 			</ul>
 		</div>
