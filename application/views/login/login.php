@@ -30,13 +30,13 @@
 							<div class="input-group-append">
 								<span class="input-group-text"><i class="fas fa-user"></i></span>
 							</div>
-							<input type="text" id="username" name="username" class="form-control input_user" value="" placeholder="username">
+							<input type="text" id="email" name="email" class="form-control input_user" value="" placeholder="อีเมล">
 						</div>
 						<div class="input-group mb-2">
 							<div class="input-group-append">
 								<span class="input-group-text"><i class="fas fa-key"></i></span>
 							</div>
-							<input type="password" id="password" name="password" class="form-control input_pass" value="" placeholder="password">
+							<input type="password" id="password" name="password" class="form-control input_pass" value="" placeholder="รหัสผ่าน">
 						</div>
 						<div class="form-group">
 							<div class="custom-control custom-checkbox">
@@ -47,7 +47,7 @@
 					</form>
 				</div>
 				<div class="d-flex justify-content-center mt-3 login_container">
-					<button  onclick="checklogin()" class="btn login_btn"> Login </button>
+					<button  onclick="checklogin()" class="btn login_btn">ล็อกอิน</button>
 				</div>
 				<div class="d-flex justify-content-center mt-2 back_container">
 					<button onclick="window.location.href = 'http://localhost/HCIProject/home';" type="button" class="btn back_btn">กลับหน้าหลัก</button>
@@ -60,9 +60,9 @@
 
 <script>
 function checklogin() {
-    var username = document.getElementById("username").value;
+    var email = document.getElementById("email").value;
     var password = document.getElementById("password").value;
-    if(username == "group" && password == "1234"){
+    if(email == "group3@mail.com" && password == "1234"){
         window.location.href = 'http://localhost/HCIProject/home';
 
     }

@@ -20,8 +20,6 @@
 <body class="bg">
 	<!-- header -->
 	<img src="http://localhost/HCIProject/public/images/logore.png" >
-<br>
-
 <div class="card" >
 		<div class="card-body">
             <h1>ลงทะเบียน</h1>
@@ -51,8 +49,10 @@
 
             </form>
         </div>
-	
 </div>
-    
+
+
+
+
 </body>
 </html>

@@ -67,24 +67,26 @@
 
 <div class="card" >
 		<div class="card-body">
-            <p>บาร์โค้ด</p><br>
+            <h4>บาร์โค้ด</h4><br>
                 <img src="http://localhost/HCIProject/public/img/barcode/barcode.png">
         </div>
 </div>
 <br>
 <div class="card" >
 		<div class="card-body">
-            <p>คิวอาร์โค้ด</p><br>
+            <h4>คิวอาร์โค้ด</h4><br>
                 <img src="http://localhost/HCIProject/public/img/barcode/QR.png">
         </div>
 </div>
 <br>
 <div class="card" >
 		<div class="card-body">
-            <p>ยอดเงินคงเหลือ</p><br>
-			<h2>2,000,000  บาท </h2>
+            <h3>ยอดเงินคงเหลือ</h3><br>
+			<h2>1,000.00  บาท </h2>
         </div>
 </div>
+<br>
+<br>
 <script src="http://localhost/HCIProject/public/js/home/jquery-3.2.1.min.js"></script>
 <script src="http://localhost/HCIProject/public/js/home/custom.js"></script>
 </body>
