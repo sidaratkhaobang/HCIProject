@@ -54,5 +54,12 @@ $route['default_controller'] = 'home';
 $route['register'] = 'register';
 $route['barcode'] = 'barcode';
 $route['login'] = 'login';
+$route['mobile'] = 'mobilemoney';
+$route['onlineshopping'] = 'onlineshopping';
+$route['movieticket'] = 'movieticket';
+$route['fillthegame'] = 'fillthegame';
+$route['cashcard'] = 'cashcard';
+$route['kfc'] = 'kfc';
+
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;

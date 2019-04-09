@@ -6,6 +6,6 @@ class Register extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('register/register');
+		$this->load->view('home_menu/register/register');
 	}
 }

@@ -33,7 +33,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 							<div class="col-11">
 								<nav class="main_nav">
 									<ul>
-										<li class="active"><a href="http://localhost/HCIProject/home">หน้าแรก</a></li>
+										<li class="active"><a href="http://localhost/HCIProject/Home">หน้าแรก</a></li>
 										<li><a href="about.html">บริการ</a></li>
 										<li><a href="properties.html">โปรโมชั่น</a></li>
 										<li><a href="news.html">ข่าวสาร</a></li>
@@ -197,7 +197,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<div class="city">
 				<img src="http://localhost/HCIProject/public/img/home/mobile.png"  >
 				<div class="city_overlay">
-					<a href="#" class="d-flex flex-column align-items-center justify-content-center">
+					<a href="http://localhost/HCIProject//Mobilemoney" class="d-flex flex-column align-items-center justify-content-center">
 						<div class="city_title">เติมเงินมือถือ</div>
 						<div class="city_subtitle">เติมได้ทุกเครือข่ายไม่จำกัด</div>
 					</a>	
@@ -208,7 +208,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<div class="city">
 				<img src="http://localhost/HCIProject/public/img/home/game.png" >
 				<div class="city_overlay">
-					<a href="#" class="d-flex flex-column align-items-center justify-content-center">
+					<a href="http://localhost/HCIProject/Fillthegame" class="d-flex flex-column align-items-center justify-content-center">
 						<div class="city_title">เติมเกม</div>
 						<div class="city_subtitle">ไม่จำกัดชีวิตตามไลฟ์สไตล์</div>
 					</a>	
@@ -219,7 +219,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<div class="city">
 				<img src="http://localhost/HCIProject/public/img/home/ticket.png" >
 				<div class="city_overlay">
-					<a href="#" class="d-flex flex-column align-items-center justify-content-center">
+					<a href="http://localhost/HCIProject/Movieticket" class="d-flex flex-column align-items-center justify-content-center">
 						<div class="city_title">ตั๋วภาพยนตร์</div>
 						<div class="city_subtitle">พบกับความบรรเทิงที่รออยู่</div>
 					</a>	
@@ -230,7 +230,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<div class="city">
 				<img src="http://localhost/HCIProject/public/img/home/kfc.png" >
 				<div class="city_overlay">
-					<a href="#" class="d-flex flex-column align-items-center justify-content-center">
+					<a href="http://localhost/HCIProject/Kfc" class="d-flex flex-column align-items-center justify-content-center">
 						<div class="city_title">K F C</div>
 						<div class="city_subtitle">หิวก็สั่งเลย สะดวกทุกที่</div>
 					</a>	
@@ -241,7 +241,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<div class="city">
 				<img src="http://localhost/HCIProject/public/img/home/card.png" >
 				<div class="city_overlay">
-					<a href="#" class="d-flex flex-column align-items-center justify-content-center">
+					<a href="http://localhost/HCIProject/Cashcard" class="d-flex flex-column align-items-center justify-content-center">
 						<div class="city_title">บัตรเงินสด</div>
 						<div class="city_subtitle">นึกถึงวันว่าน</div>
 					</a>	
@@ -252,7 +252,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<div class="city">
 				<img src="http://localhost/HCIProject/public/img/home/barcode.png" >
 				<div class="city_overlay">
-					<a href="http://localhost/HCIProject/barcode" class="d-flex flex-column align-items-center justify-content-center">
+					<a href="http://localhost/HCIProject/Barcode" class="d-flex flex-column align-items-center justify-content-center">
 						<div class="city_title">คิวอาร์โค้ด</div>
 						<div class="city_subtitle">สะดวกจ่ายพร้อมเปย์ให้เลย</div>
 					</a>	
@@ -263,7 +263,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<div class="city">
 				<img src="http://localhost/HCIProject/public/img/home/shop.png" >
 				<div class="city_overlay">
-					<a href="#" class="d-flex flex-column align-items-center justify-content-center">
+					<a href="http://localhost/HCIProject/Onlineshopping" class="d-flex flex-column align-items-center justify-content-center">
 						<div class="city_title">ช้อปออนไลน์</div>
 						<div class="city_subtitle">ช้อปง่ายๆตามไลฟ์สไตล์</div>
 					</a>	
@@ -274,7 +274,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<div class="city">
 				<img src="http://localhost/HCIProject/public/img/home/man.png" >
 				<div class="city_overlay">
-					<a href="#" class="d-flex flex-column align-items-center justify-content-center">
+					<a href="http://localhost/HCIProject/Profile" class="d-flex flex-column align-items-center justify-content-center">
 						<div class="city_title">โปร์ไฟล์</div>
 						<div class="city_subtitle">ตั้งค่าโปรไฟล์</div>
 					</a>	
