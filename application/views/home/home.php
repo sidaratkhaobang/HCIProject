@@ -29,24 +29,20 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 					<div class="header_content d-flex flex-row align-items-center justify-content-start">
 						<div class="logo">
 							<a href="#"><img src="http://localhost/HCIProject/public/images/logo.png" alt=""></a>
-                        </div>
-						<nav class="main_nav">
-							<ul>
-								<li class="active"><a href="http://localhost/HCIProject/home">หน้าแรก</a></li>
-								<li><a href="about.html">บริการ</a></li>
-								<li><a href="properties.html">โปรโมชั่น</a></li>
-								<li><a href="news.html">ข่าวสาร</a></li>
-								<li><a href="contact.html">เกี่ยวกับเรา</a></li>		
-								<!-- <div class="callout clearfix">
-								<li><a class="float-right" href="#register"></i>register</a></li>
-								<li><a class="float-right" href="#loin"></i>login</a></li>
-								</div> -->
-            					<button class="btn btn-default"><a href="http://localhost/HCIProject/register">ลงทะเบียน</button>
-            					<button class="btn btn-default"><a href="http://localhost/HCIProject/login">ล็อกอิน</button>
-        					
-							</ul>
-        						
-						</nav>
+						</div>
+							<div class="col-11">
+								<nav class="main_nav">
+									<ul>
+										<li class="active"><a href="http://localhost/HCIProject/home">หน้าแรก</a></li>
+										<li><a href="about.html">บริการ</a></li>
+										<li><a href="properties.html">โปรโมชั่น</a></li>
+										<li><a href="news.html">ข่าวสาร</a></li>
+										<li><a href="contact.html">เกี่ยวกับเรา</a></li>
+										<button class="btn btn-default"><a href="http://localhost/HCIProject/register">ลงทะเบียน</button>
+										<button class="btn btn-default"><a href="http://localhost/HCIProject/login">ล็อกอิน</button>
+									</ul>	
+								</nav>
+    						</div>
 						<div class="hamburger ml-auto"><i class="fa fa-bars" aria-hidden="true"></i></div>
 					</div>
 				</div>

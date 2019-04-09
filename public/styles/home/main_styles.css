@@ -1364,3 +1364,6 @@ section
 	text-transform: uppercase;
 	font-weight: 600;
 }
+.btn-default {
+	width: 15%;
+}
