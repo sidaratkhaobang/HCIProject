@@ -63,7 +63,7 @@ function checklogin() {
     var email = document.getElementById("email").value;
     var password = document.getElementById("password").value;
     if(email == "group3@mail.com" && password == "1234"){
-        window.location.href = 'http://localhost/HCIProject/home';
+        window.location.href = 'http://localhost/HCIProject/homenotlogin';
 
     }
     else{

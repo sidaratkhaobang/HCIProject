@@ -60,6 +60,7 @@ $route['movieticket'] = 'movieticket';
 $route['fillthegame'] = 'fillthegame';
 $route['cashcard'] = 'cashcard';
 $route['kfc'] = 'kfc';
+$route['homenotlogin'] = 'home/homenotlogin';
 
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;

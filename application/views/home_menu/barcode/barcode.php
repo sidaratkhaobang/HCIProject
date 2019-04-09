@@ -25,7 +25,7 @@
                         </div>
 						<nav class="main_nav">
 							<ul>
-							<li class="active"><a href="http://localhost/HCIProject/home">หน้าแรก</a></li>
+							<li class="active"><a href="http://localhost/HCIProject/homenotlogin">หน้าแรก</a></li>
 								<li><a href="about.html">บริการ</a></li>
 								<li><a href="properties.html">โปรโมชั่น</a></li>
 								<li><a href="news.html">ข่าวสาร</a></li>
