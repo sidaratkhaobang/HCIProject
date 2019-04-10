@@ -13,7 +13,7 @@
 						<div class="logo">
 							<a href="#"><img src="http://localhost/HCIProject/public/images/logo.png" alt=""></a>
 						</div>
-							<div class="col-11">
+							<div class="col-12">
 								<nav class="main_nav">
 									<ul>
 										<li class="active"><a href="http://localhost/HCIProject/Home">หน้าแรก</a></li>
