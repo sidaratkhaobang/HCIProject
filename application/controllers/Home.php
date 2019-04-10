@@ -19,4 +19,11 @@ class Home extends CI_Controller {
 		
 	}
 	
+	public function homenotlogout()
+	{
+		$this->load->view('template/headhome');
+		$this->load->view('home/homenotlogout');
+		$this->load->view('template/footerhome');
+		
+	}
 }
